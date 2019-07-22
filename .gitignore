@@ -1,0 +1,37 @@
+# Maven
+log/
+target/
+
+# Java class files
+*.class
+
+# Document files
+*.pdf
+*.docx
+*.txt
+*.xlsx
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/.gradle/
+=======
+>>>>>>> branch 'master' of https://github.com/gustavolessa23/StockMarketSimulator.git
+>>>>>>> branch 'master' of https://github.com/gustavolessa23/StockMarketSimulator.git
